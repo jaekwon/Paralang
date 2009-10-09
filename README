@@ -1,0 +1,5 @@
+0. code == data
+1. everything is an ordered dict, but with revision control
+2. functions are also ordered dicts where each key/value pair is an assignment to a variable
+3. symbols are used to refer to objects much like the javascript prototype system. (closures)
+4. the above properties make it possible to execute sequential programs out of order (not to be confused with reordering the procedure itself) or in parallel, making it (barring performance) interesting for parallel computing studies. 
